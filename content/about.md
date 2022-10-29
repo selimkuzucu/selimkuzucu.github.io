@@ -14,8 +14,6 @@ Bachelor of Science - Computer Engineering
 
 **High Honor Student** with GPA: 3.88/4.00. Ranking 5 out of 183 students.
 ## Experience
-#### [Google, Summer of Code](https://summerofcode.withgoogle.com/proposals/details/7NmAv2R6)
-*Software Development Engineer Internship*
 
 *Remote*, *Mountain View, CA USA*, *May 2022 - Present*
 #### [Penn State University, Computer Systems Lab](https://csl.cse.psu.edu/)

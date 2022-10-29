@@ -1,10 +1,10 @@
-baseURL = "https://vjabrayilov.github.io"
-title = "Vahab Jabrayilov"
+baseURL = "https://selimkuzucu.github.io"
+title = "Selim Kuzucu"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  author = "Vahab Jabrayilov"
+  author = "Selim Kuzucu"
   favicon = "favicon.ico"
   lang = "en"
   # [params.footer]
@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
   [[params.socialIcons]]
     icon = "fab fa-github"
     title = "Github"
-    url = "https://github.com/vjabrayilov"
+    url = "https://github.com/selimkuzucu"
   [[params.socialIcons]]
     icon = "fab fa-twitter"
     title = "Twitter"
@@ -37,10 +37,6 @@ disableKinds = ["taxonomy", "term"]
     name = "Contact"
     url  = "/contact"
     weight = 2
-  [[menu.main]]
-    name = "Blog"
-    url = "https://vjabrayilov.github.io/notes/"
-    weight = 3
   [[menu.main]]
     name = "Resume"
     url = "/resume.pdf"
