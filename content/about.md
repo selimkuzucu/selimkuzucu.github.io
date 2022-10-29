@@ -4,7 +4,7 @@ title: "About"
 
 ## About Me
 
-{{< figure class="avatar" src="/img/vjabrayilov.png" alt="vjabrayilov's picture">}}
+{{< figure class="avatar" src="/img/unnamed-3.jpeg" alt="skuzucu's picture">}}
 <!-- TODO: improve this -->
 I am a final year undergraduate student at Middle East Techincal University.
 
@@ -12,32 +12,43 @@ I am a final year undergraduate student at Middle East Techincal University.
 #### [Middle East Technical University](https://www.metu.edu.tr/) 
 Bachelor of Science - Computer Engineering 
 
-**High Honor Student** with GPA: 3.88/4.00. Ranking 5 out of 183 students.
+**High Honor Student** with GPA: 3.69/4.00. Ranking 12 out of 183 students.
 ## Experience
 
-*Remote*, *Mountain View, CA USA*, *May 2022 - Present*
-#### [Cambridge University, Computer Systems Lab](https://csl.cse.psu.edu/)
+#### [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io)
 *Undergraduate Researcher*
 
-*Remote*, *University Park, PA USA*, *Oct 2021 - Present*
+*Cambridge, The UK*, *Feb 2022 - Present*
 
 <!-- - **Resource-Efficient Replication for the Cloud**
   - Implemented variants of the consensus protocols in the Paxos family using *Go, Java and C++*.
   - Optimized  the performance of these protocols using *Remote Direct Access Memory* and *Persistent Memory*. -->
 
-#### [Kibrit Tech]()
-*Junior Software Development Engineer*
+#### [METU Image Lab](https://image.ceng.metu.edu.tr)
+*Undergraduate Researcher*
 
-*Baku, Azerbaijan*, *Feb 2021 - Oct 2021*
+*Ankara, Turkey*, *Oct 2021 - Present*
+
+#### [General Electric Digital]()
+*Software Engineering Intern*
+
+*Gebze, Turkey*, *Jun 2021 - Dec 2021*
+
+#### [KOVAN Robotics Lab](https://kovan.ceng.metu.edu.tr)
+*Undergraduate Researcher*
+
+*Ankara, Turkey*, *Jul 2021 - Oct 2021*
+
+#### [The Scientific and Technological Research Council of Turkey]()
+*Undergraduate Researcher*
+
+*Ankara, Turkey*, *Feb 2021 - June 2021*
+
 #### [Middle East Technical University, Computer Engineering Department](https://ceng.metu.edu.tr/)
 *Student Teaching Assistant*
 
-*Remote*, *Ankara, Turkey*, *March 2021 - June 2021*
+*Ankara, Turkey*, *March 2021 - June 2021*
 
-#### [eiLink](https://khazar-eilink.com/home)
-*Research Assistant*
-
-*Baku, Azerbaijan*, *Feb 2019- Aug 2019*
 
 <!-- - **Real-time monitoring service optimization**: reduced response time of real-time monitoring service of call center management solution by *10 times* integrating *cache service*(Redis).
 - **Webchat integration service development**: designed and developed a new microservice to integrate a third-party chat application to the existing solution.

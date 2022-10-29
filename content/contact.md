@@ -11,9 +11,9 @@ title: "Contact"
 
 ## Social
 
-1. [Github](https://www.github.com/vjabrayilov "Github")
+1. [Github](https://www.github.com/selimkuzucu "Github")
 2. [Linkedin](https://www.linkedin.com/in/vahab-jabrayilov/)
-3. [Twitter](https://twitter.com/vjabrayilov7)
+3. [Twitter](https://twitter.com/selimkuzucu7)
 ---
 ## Phone
 - +994 77 355 88 11

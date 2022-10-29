@@ -8,7 +8,7 @@ disableKinds = ["taxonomy", "term"]
   favicon = "favicon.ico"
   lang = "en"
   # [params.footer]
-  #   text = "By Vahab Jabrayilov"
+  #   text = "By Selim Kuzucu"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
   [[params.socialIcons]]
     icon = "fab fa-twitter"
     title = "Twitter"
-    url = "https://twitter.com/vjabrayilov7"
+    url = "https://twitter.com/slimkuzucu"
 
 
 [permalinks]
