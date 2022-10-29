@@ -16,7 +16,7 @@ Bachelor of Science - Computer Engineering
 ## Experience
 
 *Remote*, *Mountain View, CA USA*, *May 2022 - Present*
-#### [Penn State University, Computer Systems Lab](https://csl.cse.psu.edu/)
+#### [Cambridge University, Computer Systems Lab](https://csl.cse.psu.edu/)
 *Undergraduate Researcher*
 
 *Remote*, *University Park, PA USA*, *Oct 2021 - Present*
