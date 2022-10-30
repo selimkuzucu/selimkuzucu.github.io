@@ -71,7 +71,20 @@ Bachelor of Science - Computer Engineering
 
 ## Publications
 
-{{< publication-list >}}
+- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. Under preparation.
+
+- Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Güneş. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (Nov'2022)
+
+## Honors, Awards and Scores
+
+- *June, 2022* First place in Guided Research Symposium at METU Computer Engineering Department out of 30 different undergraduate research projects with my work in developing a novel one-pass uncertainty quantification method
+
+- *August, 2021* Scored 118/120 in TOEFL (R: 30, L: 29, S: 30, W: 29)
+
+- *September, 2019* Earned METU Development Foundation’s Academic Merit Scholarship for ranking in top 0.01% (270th out of 2.5 million takers) in Turkish University Entrance Exam
+
+- *March, 2018* Won FIRST Robotics Competition Shanghai Regionals Rookie Allstar Award out of about 50 other rookie teams as the founder team captain of Turkish province of Aydin’s first competitive robotics team
+<!-- {{< publication-list >}} -->
 
 <!-- ## Presentations -->
 

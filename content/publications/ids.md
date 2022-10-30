@@ -1,14 +1,29 @@
----
-title: 'An Empirical Analysis of IDS Approaches in Container Security'
+###title: ' New Measure for Quantifying and Mitigating Class
+Imbalance Through Uncertainty Quantification'
 authors:
-  - Yigit Sever
-  - Goktug Ekinci
-  - Adnan Harun Dogan
-  - Bugra Alparslan
-  - Said Gurbuz
-  - Vahab Jabrayilov
-  - Pelin Angin
-date: "2022-09-19"
+  - Zeynep Sonat Baltacı
+  - Kemal Öksüz
+  - Selim Kuzucu
+  - Alpay Özkan
+  - Emre Akbaş
+  - Sinan Kalkan
+date: "2022"
+
+###title: ' Deep Learning Graph Representation with
+Task-specific Topology and Multi-dimensional
+Edge Features'
+authors:
+  - Siyang Song
+  - Yuxing Song
+  - Cheng Luo
+  - Zhiyuan Song
+  - Selim Kuzucu
+  - Xi Jia
+  - Zhijian Guo
+  - Weicheng Xie
+  - Linlin Shen
+  - Hatice Güneş
+date: "2022"
 
 publication: ""
 
