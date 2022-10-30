@@ -52,12 +52,16 @@ Bachelor of Science - Computer Engineering
 *Ankara, Turkey*, *Jul 2021 - Oct 2021*
 
 #### [The Scientific and Technological Research Council of Turkey]()
-*Undergraduate Researcher* Programming languages, calibration devices
+*Undergraduate Researcher*
+
+*Programming languages, calibration devices*
 
 *Ankara, Turkey*, *Feb 2021 - June 2021*
 
 #### [Middle East Technical University, Computer Engineering Department](https://ceng.metu.edu.tr/)
 *Student Teaching Assistant*
+
+*Python Programming for Engineers course*
 
 *Ankara, Turkey*, *March 2021 - June 2021*
 
