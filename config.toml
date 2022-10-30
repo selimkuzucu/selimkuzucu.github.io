@@ -11,8 +11,8 @@ disableKinds = ["taxonomy", "term"]
   #   text = "By Selim Kuzucu"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
-    pageWidth = "750px"
-    avatarSize = "200px"
+    pageWidth = "850px"
+    avatarSize = "90px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]

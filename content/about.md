@@ -13,9 +13,12 @@ I am a final year undergraduate student at Middle East Techincal University.
 Bachelor of Science - Computer Engineering 
 
 **High Honor Student** with GPA: 3.69/4.00. Ranking 12 out of 183 students.
+
+
 ## Experience
 
-#### [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io)
+{{< figure class="avatar" src="/img/cambridge_0.jpg" alt="skuzucu's picture">}}
+#### [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) 
 *Undergraduate Researcher*
 
 *Cambridge, The UK*, *Feb 2022 - Present*
@@ -24,11 +27,14 @@ Bachelor of Science - Computer Engineering
   - Implemented variants of the consensus protocols in the Paxos family using *Go, Java and C++*.
   - Optimized  the performance of these protocols using *Remote Direct Access Memory* and *Persistent Memory*. -->
 
+{{< figure class="avatar" src="/img/metu_logo.jpg" alt="skuzucu's picture">}}
+
 #### [METU Image Lab](https://image.ceng.metu.edu.tr)
 *Undergraduate Researcher*
 
 *Ankara, Turkey*, *Oct 2021 - Present*
 
+{{< figure class="avatar" src="/img/ge_logo.png" alt="skuzucu's picture">}}
 #### [General Electric Digital]()
 *Software Engineering Intern*
 
