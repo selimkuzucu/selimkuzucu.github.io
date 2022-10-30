@@ -39,5 +39,5 @@ disableKinds = ["taxonomy", "term"]
     weight = 2
   [[menu.main]]
     name = "Resume"
-    url = "/resume.pdf"
+    url = "/selim_kuzucu_cv.pdf"
     weight = 4
