@@ -41,7 +41,7 @@ Bachelor of Science - Computer Engineering
 *Gebze, Turkey*, *Jun 2021 - Dec 2021*
 
 #### [KOVAN Robotics Lab](https://kovan.ceng.metu.edu.tr)
-*Undergraduate Researcher*
+*Undergraduate Researcher* Swarm robotics, motion planning
 
 *Ankara, Turkey*, *Jul 2021 - Oct 2021*
 
