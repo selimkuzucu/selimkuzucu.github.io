@@ -6,7 +6,7 @@ title: "About"
 
 {{< figure class="avatar" src="/img/unnamed-3.jpeg" alt="skuzucu's picture">}}
 <!-- TODO: improve this -->
-I am a final year undergraduate student at Middle East Techincal University.
+I am a final year undergraduate student at Middle East Techincal University. I am interested in broad fields of computer vision and natural language processing with a further focus on robustness, fairness and human-centered computing.
 
 ## Education
 #### [Middle East Technical University](https://www.metu.edu.tr/) 
