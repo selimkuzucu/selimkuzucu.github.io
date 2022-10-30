@@ -19,7 +19,8 @@ Bachelor of Science - Computer Engineering
 
 {{< figure class="avatar" src="/img/cambridge_0.jpg" alt="skuzucu's picture">}}
 #### [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) 
-*Undergraduate Researcher* Facial activation unit recognition, fairness, uncertainty quantification
+*Undergraduate Researcher*
+*Facial activation unit recognition, GNNs, fairness, uncertainty quantification*
 
 *Cambridge, The UK*, *Feb 2022 - Present*
 
@@ -30,7 +31,8 @@ Bachelor of Science - Computer Engineering
 {{< figure class="avatar" src="/img/metu_logo.jpg" alt="skuzucu's picture">}}
 
 #### [METU Image Lab](https://image.ceng.metu.edu.tr)
-*Undergraduate Researcher* Imbalance, robustness, uncertainty quantification
+*Undergraduate Researcher*
+*Imbalance, robustness, uncertainty quantification*
 
 *Ankara, Turkey*, *Oct 2021 - Present*
 
@@ -41,7 +43,8 @@ Bachelor of Science - Computer Engineering
 *Gebze, Turkey*, *Jun 2021 - Dec 2021*
 
 #### [KOVAN Robotics Lab](https://kovan.ceng.metu.edu.tr)
-*Undergraduate Researcher* Swarm robotics, motion planning
+*Undergraduate Researcher*
+*Swarm robotics, motion planning*
 
 *Ankara, Turkey*, *Jul 2021 - Oct 2021*
 
