@@ -81,7 +81,9 @@ Bachelor of Science - Computer Engineering
 
 ## Publications
 
-- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. Under review at **Nature Machine Intelligence** (Jan'2023).
+- Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Under review at **IJCAI AI and Social Good** (Mar'2023).
+
+- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. Under review at **IEEE Computational Intelligence Magazine** (Jan'2023).
 
 - Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. Under major revision after first reviews at **IEEE Transactions on Pattern Analysis and Machine Intelligence** (Nov'2022). Available at [arXiv](https://arxiv.org/abs/2211.12482)
 
