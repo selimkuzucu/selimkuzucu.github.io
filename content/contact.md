@@ -14,7 +14,7 @@ title: "Contact"
 
 1. [Github](https://www.github.com/selimkuzucu "Github")
 2. [Linkedin](https://www.linkedin.com/in/selim-kuzucu-592832194/)
-3. [Twitter](https://twitter.com/slimkuzucu)
+3. [Twitter](https://twitter.com/selimkuzucu)
 ---
 ## Phone
 - +90 506 806 9271
