@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "term"]
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "850px"
-    avatarSize = "100px"
+    avatarSize = "400px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
