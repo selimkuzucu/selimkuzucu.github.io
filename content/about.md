@@ -6,13 +6,13 @@ title: "About"
 
 {{< figure class="avatar" src="/img/unnamed-3.jpeg" alt="skuzucu's picture">}}
 <!-- TODO: improve this -->
-I am a final year undergraduate student at Middle East Technical University. I am interested in computer vision with a further focus on robustness and uncertainty quantification.
+I am an intern research scientist at Five AI (Bosch) Oxford Applied Research Center. Previously, I obtained by BS in Computer Engineering from Middle East Technical University where I was advised by Prof. Dr. Sinan Kalkan. I am broadly interested in visual percetion with a further focus on robustness, uncertainty and fairness.
 
 ## Education
 #### [Middle East Technical University](https://www.metu.edu.tr/) 
 Bachelor of Science - Computer Engineering 
 
-**High Honor Student** with GPA: 3.69/4.00. Ranking 12 out of 183 students.
+**High Honor Student** with GPA: 3.66/4.00. Graduated in *Top 5%* (14/305) of the class
 
 
 ## Experience
