@@ -6,7 +6,7 @@ title: "About"
 
 {{< figure class="avatar" src="/img/unnamed-3.jpeg" alt="skuzucu's picture">}}
 <!-- TODO: improve this -->
-I am an intern research scientist at Five AI (Bosch) Oxford Applied Research Center. Previously, I obtained by BS in Computer Engineering from Middle East Technical University where I was advised by Prof. Dr. Sinan Kalkan. I am broadly interested in visual percetion with a further focus on robustness, uncertainty and fairness.
+I am an intern research scientist at Five AI (Bosch) Oxford Applied Research Center supervised by [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/)  Previously, I obtained by BS in Computer Engineering from Middle East Technical University where I was advised by Prof. Dr. Sinan Kalkan and also was intern at. I am broadly interested in visual percetion with a further focus on robustness, uncertainty and fairness.
 
 ## Education
 #### [Middle East Technical University](https://www.metu.edu.tr/) 
@@ -17,13 +17,22 @@ Bachelor of Science - Computer Engineering
 
 ## Experience
 
+{{< figure class="avatar" src="/img/five_logo.png" alt="skuzucu's picture">}}
+#### [Five AI (Bosch)](https://www.five.ai/) 
+*Intern Research Scientist*
+
+*Robustness and calibration of object detectors*
+
+*Oxford, The UK*, *Sept 2023 - Present*
+
+
 {{< figure class="avatar" src="/img/cambridge_0.jpg" alt="skuzucu's picture">}}
 #### [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) 
 *Undergraduate Researcher*
 
-*Facial activation unit recognition, GNNs, fairness, uncertainty quantification*
+*Fairness through uncertainty, facial activation unit recognition through GNNs*
 
-*Cambridge, The UK*, *Feb 2022 - Present*
+*Cambridge, The UK*, *Feb 2022 - Aug 2023*
 
 <!-- - **Resource-Efficient Replication for the Cloud**
   - Implemented variants of the consensus protocols in the Paxos family using *Go, Java and C++*.
@@ -34,9 +43,9 @@ Bachelor of Science - Computer Engineering
 #### [METU Image Lab](https://image.ceng.metu.edu.tr)
 *Undergraduate Researcher*
 
-*Imbalance, robustness, uncertainty quantification*
+*Quantifying and mitigating class imbalance through uncertainty*
 
-*Ankara, Turkey*, *Oct 2021 - Present*
+*Ankara, Turkey*, *Oct 2021 - Aug 2023*
 
 {{< figure class="avatar" src="/img/ge_logo.png" alt="skuzucu's picture">}}
 #### [General Electric Digital]()
@@ -47,14 +56,14 @@ Bachelor of Science - Computer Engineering
 #### [KOVAN Robotics Lab](https://kovan.ceng.metu.edu.tr)
 *Undergraduate Researcher*
 
-*Swarm robotics, motion planning*
+*Optimal matching and motion planning in swarm robotics*
 
 *Ankara, Turkey*, *Jul 2021 - Oct 2021*
 
 #### [The Scientific and Technological Research Council of Turkey]()
 *Undergraduate Researcher*
 
-*Programming languages, calibration devices*
+*Designing a new domain-specific language for calibrating RF devices*
 
 *Ankara, Turkey*, *Feb 2021 - June 2021*
 
@@ -81,11 +90,11 @@ Bachelor of Science - Computer Engineering
 
 ## Publications
 
-- Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Under review at **IJCAI AI and Social Good** (Mar'2023).
+- Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI AI and Social Good** (Aug'2023).
 
 - Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. Will be submitted to **IEEE Computational Intelligence Magazine** (Jan'2023).
 
-- Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. Under major revision after first reviews at **IEEE Transactions on Pattern Analysis and Machine Intelligence** (Nov'2022). Available at [arXiv](https://arxiv.org/abs/2211.12482)
+- Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. Under review at **IEEE Transactions on Pattern Analysis and Machine Intelligence** (Nov'2022). Available at [arXiv](https://arxiv.org/abs/2211.12482)
 
 ## Honors, Awards and Scores
 
