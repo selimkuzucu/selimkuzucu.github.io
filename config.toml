@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "term"]
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "850px"
-    avatarSize = "400px"
+    avatarSize = "250px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
   [[params.socialIcons]]
     icon = "fab fa-twitter"
     title = "Twitter"
-    url = "https://twitter.com/slimkuzucu"
+    url = "https://twitter.com/SelimKuzucu"
 
 
 [permalinks]
