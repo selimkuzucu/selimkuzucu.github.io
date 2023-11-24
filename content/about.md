@@ -90,7 +90,11 @@ Bachelor of Science - Computer Engineering
 
 ## Publications
 
-- Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI AI and Social Good** (Aug'2023).
+- Kemal Öksüz, **Selim Kuzucu**, Tom Joy, Puneet K. Dokania. *MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection*. Submitted to **CVPR 2024** (Nov'2022). Available at [arXiv](https://arxiv.org/pdf/2309.14976.pdf)
+
+- **Selim Kuzucu**, Jiaee Cheong, Sinan Kalkan, Hatice Gunes. *Uncertainty-based Fairness Measures*. under review at **AAAI 2024** (Aug'2023).
+
+- Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI 2023 AI and Social Good Track** (Aug'2023).
 
 - Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. Will be submitted to **IEEE Computational Intelligence Magazine** (Jan'2023).
 
