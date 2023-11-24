@@ -26,7 +26,7 @@ Bachelor of Science - Computer Engineering
 *Oxford, The UK*, *Sept 2023 - Present*
 
 
-{{< figure class="avatar" src="/img/cambridge_0.jpg" alt="skuzucu's picture">}}
+{{< figure class="avatar" src="/img/cambridge_circular.png" alt="skuzucu's picture">}}
 #### [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) 
 *Undergraduate Researcher*
 
@@ -38,7 +38,7 @@ Bachelor of Science - Computer Engineering
   - Implemented variants of the consensus protocols in the Paxos family using *Go, Java and C++*.
   - Optimized  the performance of these protocols using *Remote Direct Access Memory* and *Persistent Memory*. -->
 
-{{< figure class="avatar" src="/img/metu_updated.png" alt="skuzucu's picture">}}
+{{< figure class="avatar" src="/img/unnamed.png" alt="skuzucu's picture">}}
 
 #### [METU Image Lab](https://image.ceng.metu.edu.tr)
 *Undergraduate Researcher*
