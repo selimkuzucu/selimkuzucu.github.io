@@ -38,7 +38,7 @@ Bachelor of Science - Computer Engineering
   - Implemented variants of the consensus protocols in the Paxos family using *Go, Java and C++*.
   - Optimized  the performance of these protocols using *Remote Direct Access Memory* and *Persistent Memory*. -->
 
-{{< figure class="avatar" src="/img/metu_candid2.png" alt="skuzucu's picture">}}
+{{< figure class="avatar" src="/img/metu_updated.jpeg" alt="skuzucu's picture">}}
 
 #### [METU Image Lab](https://image.ceng.metu.edu.tr)
 *Undergraduate Researcher*
