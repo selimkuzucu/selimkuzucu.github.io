@@ -6,7 +6,7 @@ title: "About"
 
 {{< figure class="avatar" src="/img/unnamed-3.jpeg" alt="skuzucu's picture">}}
 <!-- TODO: improve this -->
-I am an intern research scientist at Five AI (Bosch) Oxford Applied Research Center supervised by [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/)  Previously, I obtained by BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en). I was also lucky enough to be an intern at [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) under the supervision of [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and also [METU Image Lab](https://image.ceng.metu.edu.tr/members.html) under the supervision of [Prof. Emre Akbas](https://user.ceng.metu.edu.tr/~emre/). I am broadly interested in visual perception with a further focus on robustness, uncertainty and fairness.
+I am an intern research scientist at Five AI (Bosch) Oxford Applied Research Center supervised by [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/)  Previously, I obtained by BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en). I was also lucky enough to be an intern at [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) under the supervision of [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and also [METU Image Lab](https://image.ceng.metu.edu.tr/members.html) under the supervision of [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en) and [Prof. Emre Akbas](https://user.ceng.metu.edu.tr/~emre/). I am broadly interested in visual perception with a further focus on robustness, uncertainty and fairness.
 
 ## Education
 #### [Middle East Technical University](https://www.metu.edu.tr/) 
@@ -38,7 +38,7 @@ Bachelor of Science - Computer Engineering
   - Implemented variants of the consensus protocols in the Paxos family using *Go, Java and C++*.
   - Optimized  the performance of these protocols using *Remote Direct Access Memory* and *Persistent Memory*. -->
 
-{{< figure class="avatar" src="/img/unnamed.png" alt="skuzucu's picture">}}
+{{< figure class="avatar" src="/img/metu_candidate.jpg" alt="skuzucu's picture">}}
 
 #### [METU Image Lab](https://image.ceng.metu.edu.tr)
 *Undergraduate Researcher*
