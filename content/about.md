@@ -17,7 +17,7 @@ Bachelor of Science - Computer Engineering
 
 ## Experience
 
-{{< figure class="avatar" src="/img/five_ai_logo.png" alt="skuzucu's picture">}}
+{{< figure class="avatar" src="/img/five_ai_logo.jpeg" alt="skuzucu's picture">}}
 #### [Five AI (Bosch)](https://www.five.ai/) 
 *Intern Research Scientist*
 
