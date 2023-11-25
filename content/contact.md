@@ -6,7 +6,8 @@ title: "Contact"
 
 ## Email:
 - [selim686kuzucu@gmail.com](mailto:selim686kuzucu@gmail.com)
-- [selim.kuzucu@metu.edu.tr](mailto:selim.kuzucuv@metu.edu.tr)
+- [selim.kuzucu2@five.ai](mailto:selim.kuzucu2@five.ai)
+- [selim.kuzucu@metu.edu.tr](mailto:selim.kuzucu@metu.edu.tr)
 - [sk2225@cst.cam.ac.uk](mailto:sk2225@cst.cam.ac.uk)
 ---
 
@@ -17,4 +18,4 @@ title: "Contact"
 3. [Twitter](https://twitter.com/SelimKuzucu)
 ---
 ## Phone
-- +90 506 806 9271
+- +44 7444 069710
