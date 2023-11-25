@@ -90,9 +90,7 @@ Bachelor of Science - Computer Engineering
 
 ## Publications
 
-- Kemal Öksüz, **Selim Kuzucu**, Tom Joy, Puneet K. Dokania. *MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection*. Submitted to **CVPR 2024** (Nov'2022). Available at [arXiv](https://arxiv.org/pdf/2309.14976.pdf)
-
-- **Selim Kuzucu**, Jiaee Cheong, Sinan Kalkan, Hatice Gunes. *Uncertainty-based Fairness Measures*. under review at **AAAI 2024** (Aug'2023).
+- Kemal Öksüz, **Selim Kuzucu**, Tom Joy, Puneet K. Dokania. *MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection*. Preprint available at [arXiv](https://arxiv.org/pdf/2309.14976.pdf)
 
 - Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI 2023 AI and Social Good Track** (Aug'2023).
 
