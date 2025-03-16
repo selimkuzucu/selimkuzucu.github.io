@@ -10,9 +10,9 @@ I am a doctoral student at prepatory phase with the [CS @ Max Planck Doctoral Pr
 
 Previously, I obtained by BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en).
 
-I was also lucky enough to be an intern at Five AI (Bosch) Oxford Applied Research Center under the supervision of [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/), at the [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) under the supervision of [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and also [METU Image Lab](https://image.ceng.metu.edu.tr/members.html) under the supervision of [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en) and [Prof. Emre Akbas](https://user.ceng.metu.edu.tr/~emre/). 
+I was also lucky enough to be an intern at Five AI (Bosch) Oxford Applied Research Center under the supervision of [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/), at the [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) under the supervision of [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and also at the [METU Image Lab](https://image.ceng.metu.edu.tr/members.html) under the supervision of [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en) and [Prof. Emre Akbas](https://user.ceng.metu.edu.tr/~emre/). 
 
-Previously, I worked broadly on robustness and fairness of machine learning models. Nowadays, I am interested in foundation models, with a special focus on vision-language modeling.
+Previously, I worked broadly on robustness, reliability and fairness of machine learning models. Nowadays, I am interested in foundation models, with a special focus on vision-language modeling.
 
 
 ## Education
@@ -35,7 +35,7 @@ Bachelor of Science - Computer Engineering
 
 *Foundation models, Vision-language modeling*
 
-*Saarbruecken, Germany*, *Sep 2024 -*
+*Saarbruecken, Germany*, *Sep 2024 - Present*
 
 
 {{< figure class="avatar" src="/img/five_ai_logo.jpeg" alt="skuzucu's picture">}}
