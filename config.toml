@@ -1,4 +1,4 @@
-baseURL = "https://selimkuzucu.github.io"
+baseURL = "https://selimkuzucu.github.io/about"
 title = "Selim Kuzucu"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
@@ -31,13 +31,13 @@ disableKinds = ["taxonomy", "term"]
 [menu]
   [[menu.main]]
     name = "About"
-    url  = "/about"
+    url  = "https://selimkuzucu.github.io/about"
     weight = 1
   [[menu.main]]
     name = "Contact"
-    url  = "/contact"
+    url  = "https://selimkuzucu.github.io/contact"
     weight = 2
   [[menu.main]]
     name = "Resume"
-    url = "/selim_kuzucu_cv.pdf"
+    url = "https://selimkuzucu.github.io/selim_kuzucu_cv.pdf"
     weight = 4
