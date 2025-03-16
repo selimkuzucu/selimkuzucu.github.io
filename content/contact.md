@@ -4,7 +4,7 @@ title: "Contact"
 
 ---
 
-## Email:
+## Email
 - [selim686kuzucu@gmail.com](mailto:selim686kuzucu@gmail.com)
 - [skuzucu@mpi-inf.mpg.de](mailto:skuzucu@mpi-inf.mpg.de)
 ---
