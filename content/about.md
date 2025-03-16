@@ -29,7 +29,7 @@ Bachelor of Science - Computer Engineering
 
 ## Experience
 
-{{< figure class="avatar" src="/img/saarland-university-logo-vector.jpg" alt="skuzucu's picture">}}
+{{< figure class="avatar" src="/img/mpg.png" alt="skuzucu's picture">}}
 #### [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) 
 *Doctoral Researchers*
 
