@@ -3,4 +3,4 @@ title: "About"
 url: "/"
 ---
 
-{{< about.md >}}
+{{< content/about.md >}}
