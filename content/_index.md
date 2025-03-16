@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-{{< content "content/about.md" >}}
+{{< content "about.md" >}}
