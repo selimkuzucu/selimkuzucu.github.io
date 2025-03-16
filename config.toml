@@ -9,6 +9,7 @@ disableKinds = ["taxonomy", "term"]
   lang = "en"
   # [params.footer]
   #   text = "By Selim Kuzucu"
+  mainSections = ["content"]
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "850px"
