@@ -8,7 +8,7 @@ title: "About"
 <!-- TODO: improve this -->
 I am a doctoral student at prepatory phase with the [CS @ Max Planck Doctoral Program](https://www.cis.mpg.de/csmaxplanck-overview/), currently working under the supervision of [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele).
 
-Previously, I obtained by BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en).
+Previously, I obtained my BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en).
 
 I was also lucky enough to be an intern at Five AI (Bosch) Oxford Applied Research Center under the supervision of [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/), at the [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) under the supervision of [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and also at the [METU Image Lab](https://image.ceng.metu.edu.tr/members.html) under the supervision of [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en) and [Prof. Emre Akbas](https://user.ceng.metu.edu.tr/~emre/). 
 
