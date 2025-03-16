@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Selim Kuzucu</title><link>https://selimkuzucu.github.io/</link><description>Recent content on Selim Kuzucu</description><generator>Hugo</generator><language>en</language><atom:link href="https://selimkuzucu.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Selim Kuzucu</title><link>https://selimkuzucu.github.io/</link><description>Recent content on Selim Kuzucu</description><generator>Hugo</generator><language>en</language><atom:link href="https://selimkuzucu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://selimkuzucu.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://selimkuzucu.github.io/about/</guid><description>&lt;h2 id="about-me">About Me&lt;/h2>
+&lt;figure class="avatar">&lt;img src="https://selimkuzucu.github.io/img/unnamed-3.jpeg"
+ alt="skuzucu&amp;#39;s picture">
+&lt;/figure>
+
+&lt;p>I am a doctoral student at prepatory phase with the &lt;a href="https://www.cis.mpg.de/csmaxplanck-overview/">CS @ Max Planck Doctoral Program&lt;/a>, currently working under the supervision of &lt;a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele">Prof. Dr. Bernt Schiele&lt;/a>.&lt;/p>
+&lt;p>Previously, I obtained my BS in Computer Engineering from Middle East Technical University where I was advised by &lt;a href="https://scholar.google.com/citations?user=yiAWeIAAAAAJ&amp;amp;hl=en">Prof. Dr. Sinan Kalkan&lt;/a>.&lt;/p>
+&lt;p>I was also lucky enough to be an intern at Five AI (Bosch) Oxford Applied Research Center under the supervision of &lt;a href="https://scholar.google.com/citations?user=nWHRjrkAAAAJ">Dr. Kemal Oksuz&lt;/a> and &lt;a href="https://puneetkdokania.github.io/">Dr. Puneet K. Dokania&lt;/a>, at the &lt;a href="https://cambridge-afar.github.io">University of Cambridge, Affective Intelligence and Robotics Lab&lt;/a> under the supervision of &lt;a href="https://www.cl.cam.ac.uk/~hg410/">Prof. Hatice Gunes&lt;/a> and also at the &lt;a href="https://image.ceng.metu.edu.tr/members.html">METU Image Lab&lt;/a> under the supervision of &lt;a href="https://scholar.google.com/citations?user=yiAWeIAAAAAJ&amp;amp;hl=en">Prof. Dr. Sinan Kalkan&lt;/a> and &lt;a href="https://user.ceng.metu.edu.tr/~emre/">Prof. Emre Akbas&lt;/a>.&lt;/p></description></item><item><title>Contact</title><link>https://selimkuzucu.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://selimkuzucu.github.io/contact/</guid><description>&lt;hr>
+&lt;h2 id="email">Email:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="mailto:selim686kuzucu@gmail.com">selim686kuzucu@gmail.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="mailto:skuzucu@mpi-inf.mpg.de">skuzucu@mpi-inf.mpg.de&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="social">Social&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://www.github.com/selimkuzucu" title="Github">Github&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/selim-kuzucu-592832194/">Linkedin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/SelimKuzucu">Twitter&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;hr></description></item></channel></rss>
