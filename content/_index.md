@@ -1,6 +1,5 @@
 ---
-title: "About"
-url: "/"
+title: "Home"
 ---
 
-{{< content/about.md >}}
+{{% include "about.md" %}}
