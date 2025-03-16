@@ -6,13 +6,21 @@ title: "About"
 
 {{< figure class="avatar" src="/img/unnamed-3.jpeg" alt="skuzucu's picture">}}
 <!-- TODO: improve this -->
-I am an intern research scientist at Five AI (Bosch) Oxford Applied Research Center supervised by [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/). 
+I am a doctoral student at prepatory phase with the [CS @ Max Planck Doctoral Program](https://www.cis.mpg.de/csmaxplanck-overview/), currently working under the supervision of [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele).
 
 Previously, I obtained by BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en).
 
-I was also lucky enough to be an intern at [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) under the supervision of [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and also [METU Image Lab](https://image.ceng.metu.edu.tr/members.html) under the supervision of [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en) and [Prof. Emre Akbas](https://user.ceng.metu.edu.tr/~emre/). I am broadly interested in visual perception with a further focus on robustness, uncertainty and fairness.
+I was also lucky enough to be an intern at Five AI (Bosch) Oxford Applied Research Center under the supervision of [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/), at the [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) under the supervision of [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and also [METU Image Lab](https://image.ceng.metu.edu.tr/members.html) under the supervision of [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en) and [Prof. Emre Akbas](https://user.ceng.metu.edu.tr/~emre/). 
+
+Previously, I worked broadly on robustness and fairness of machine learning models. Nowadays, I am interested in foundation models, with a special focus on vision-language modeling.
+
 
 ## Education
+
+#### [Saarland University](https://www.uni-saarland.de/en/home.html)
+PhD - Computer Science
+
+
 #### [Middle East Technical University](https://www.metu.edu.tr/) 
 Bachelor of Science - Computer Engineering 
 
@@ -21,13 +29,22 @@ Bachelor of Science - Computer Engineering
 
 ## Experience
 
+{{< figure class="avatar" src="/img/saarland-university-logo-vector.png" alt="skuzucu's picture">}}
+#### [Max Planck Institute for Informatics]([https://www.five.ai/](https://www.mpi-inf.mpg.de/home)) 
+*Doctoral Researchers*
+
+*Foundation models, Vision-language modeling*
+
+*Saarbruecken, Germany*, *Sep 2024 - *
+
+
 {{< figure class="avatar" src="/img/five_ai_logo.jpeg" alt="skuzucu's picture">}}
 #### [Five AI (Bosch)](https://www.five.ai/) 
 *Intern Research Scientist*
 
 *Robustness and calibration of object detectors*
 
-*Oxford, The UK*, *Sept 2023 - Present*
+*Oxford, The UK*, *Sep 2023 - Jun 2024*
 
 
 {{< figure class="avatar" src="/img/cambridge_0.jpg" alt="skuzucu's picture">}}
@@ -94,11 +111,15 @@ Bachelor of Science - Computer Engineering
 
 ## Publications
 
-- Kemal Öksüz, **Selim Kuzucu**, Tom Joy, Puneet K. Dokania. *MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection*. Preprint available at [arXiv](https://arxiv.org/pdf/2309.14976.pdf)
+- **Selim Kuzucu**, Kemal Oksuz, Jonathan Sadeghi, Puneet K. Dokania. *On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines*. Published at the European Conference on Computer Vision (ECCV 2024) as an **oral presentation (top 2.3% of valid submissions)**. [arXiv](https://arxiv.org/abs/2405.20459)
 
-- Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI 2023 AI and Social Good Track** (Aug'2023).
+- Kemal Öksüz, **Selim Kuzucu**, Tom Joy, Puneet K. Dokania. *MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection*. Published at Transactions on Machine Learning Research (TMLR) [arXiv](https://arxiv.org/pdf/2309.14976.pdf), [reviewed on OpenReview](https://openreview.net/forum?id=fJEsas1z8J).
 
-- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. Under review at **IEEE Computational Intelligence Magazine** (Jan'2023).
+- **Selim Kuzucu**, Jiaee Cheong, Hatice Gunes, Sinan Kalkan. *Uncertainty as a Fairness Measure*. Published at the ACM Journal of Artificial Intelligence Research (JAIR). [available at the JAIR website](https://www.jair.org/index.php/jair/article/view/16041)
+
+- Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI 2023 AI and Social Good Track** (Aug'2023). [available at the IJCAI website](https://www.ijcai.org/proceedings/2023/0658.pdf)
+
+- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. Under review at **IEEE Computational Intelligence Magazine** (Jan'2023). [arXiv](https://arxiv.org/abs/2311.14090)
 
 - Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. Under review at **IEEE Transactions on Pattern Analysis and Machine Intelligence** (Nov'2022). Available at [arXiv](https://arxiv.org/abs/2211.12482)
 
