@@ -1,5 +1,1 @@
----
-title: ""
-url: /
-redirect: "/about"
----
+about.md
