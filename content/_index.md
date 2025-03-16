@@ -1,1 +1,4 @@
-about.md
+---
+title: "Home"
+---
+{{< content "about.md" >}}
