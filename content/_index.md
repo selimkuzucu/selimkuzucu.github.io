@@ -1,1 +1,2 @@
 about.md
+contact.md
