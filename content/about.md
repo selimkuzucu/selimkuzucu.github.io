@@ -35,7 +35,7 @@ Bachelor of Science - Computer Engineering
 
 *Foundation models, Vision-language modeling*
 
-*Saarbruecken, Germany*, *Sep 2024 - *
+*Saarbruecken, Germany*, *Sep 2024 -*
 
 
 {{< figure class="avatar" src="/img/five_ai_logo.jpeg" alt="skuzucu's picture">}}
