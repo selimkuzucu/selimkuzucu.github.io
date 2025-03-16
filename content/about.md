@@ -31,7 +31,7 @@ Bachelor of Science - Computer Engineering
 
 {{< figure class="avatar" src="/img/mpg.png" alt="skuzucu's picture">}}
 #### [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) 
-*Doctoral Researchers*
+*Doctoral Researcher*
 
 *Foundation models, Vision-language modeling*
 
