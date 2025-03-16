@@ -1,4 +1,4 @@
-baseURL = "https://selimkuzucu.github.io"
+baseURL = "https://selimkuzucu.github.io/about"
 title = "Selim Kuzucu"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
