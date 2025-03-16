@@ -1,1 +1,6 @@
-about.md
+---
+title: "About"
+url: "/"
+---
+
+{{< about.md >}}
