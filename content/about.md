@@ -123,6 +123,10 @@ Bachelor of Science - Computer Engineering
 
 - Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. Under review at **IEEE Transactions on Pattern Analysis and Machine Intelligence** (Nov'2022). Available at [arXiv](https://arxiv.org/abs/2211.12482)
 
+## Community Service
+- Reviewer for NeurIPS'24, ICML'25, IEEE T-PAMI 
+
+
 ## Honors, Awards and Scores
 
 - *June, 2022* First place in Guided Research Symposium at METU Computer Engineering Department out of 30 different undergraduate research projects with my work in developing a novel one-pass uncertainty quantification method
