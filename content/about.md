@@ -4,7 +4,7 @@ title: "About"
 
 ## About Me
 
-{{< figure class="avatar" src="/img/unnamed-3.jpeg" alt="skuzucu's picture">}}
+{{< figure class="avatar" src="/img/personal_photo.jpg" alt="skuzucu's picture">}}
 <!-- TODO: improve this -->
 I am a doctoral student at prepatory phase with the [CS @ Max Planck Doctoral Program](https://www.cis.mpg.de/csmaxplanck-overview/), currently working under the supervision of [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele).
 
