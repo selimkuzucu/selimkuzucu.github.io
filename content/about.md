@@ -6,7 +6,7 @@ title: "About"
 
 {{< figure class="avatar" src="/img/personal_photo.jpg" alt="skuzucu's picture">}}
 <!-- TODO: improve this -->
-I am a doctoral student at prepatory phase with the [CS @ Max Planck Doctoral Program](https://www.cis.mpg.de/csmaxplanck-overview/), currently working under the supervision of [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele).
+I am an ELLIS PhD student, co-supervised by [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) from the [Max Planck Institute](https://www.mpi-inf.mpg.de/home) and [Dr. Federico Tombari](https://federicotombari.github.io) from Google Zurich.
 
 Previously, I obtained my BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en).
 
