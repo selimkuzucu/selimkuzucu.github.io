@@ -17,7 +17,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 
 ## Education
 
-#### [Saarland University](https://www.uni-saarland.de/en/home.html)
+#### [ELLIS Program](https://ellis.eu) - [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) & Google Zürich
 PhD - Computer Science
 
 
