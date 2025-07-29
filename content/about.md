@@ -47,7 +47,7 @@ Bachelor of Science - Computer Engineering
 *Oxford, The UK*, *Sep 2023 - Jun 2024*
 
 
-{{< figure class="avatar" src="/img/cambridge_0.jpg" alt="skuzucu's picture">}}
+{{< figure class="avatar" src="/img/cam-stacked-circular-logo.png" alt="skuzucu's picture">}}
 #### [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) 
 *Undergraduate Researcher*
 
