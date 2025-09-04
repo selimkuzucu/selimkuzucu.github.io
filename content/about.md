@@ -29,7 +29,7 @@ Bachelor of Science - Computer Engineering
 
 ## Experience
 
-{{< figure class="avatar" src="/img/mpg.png" alt="skuzucu's picture">}}
+{{< figure class="avatar" src="/img/google.png" alt="skuzucu's picture">}}
 #### Google Zurich
 *Student Researcher*
 
