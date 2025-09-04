@@ -6,7 +6,7 @@ title: "About"
 
 {{< figure class="avatar" src="/img/personal_photo.jpg" alt="skuzucu's picture">}}
 <!-- TODO: improve this -->
-I am an ELLIS PhD student, co-supervised by [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) from the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) and [Dr. Federico Tombari](https://federicotombari.github.io) from Google Zurich.
+I am currently a Student Researcher at Google Zurich, working in [Dr. Federico Tombari](https://federicotombari.github.io)'s team under the supervision of [Dr. Ferjad Naeem](https://ferjad.github.io). I am also an ELLIS PhD student, co-supervised by [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) from the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) and [Dr. Federico Tombari](https://federicotombari.github.io) from Google Zurich.
 
 Previously, I obtained my BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en).
 
@@ -28,6 +28,11 @@ Bachelor of Science - Computer Engineering
 
 
 ## Experience
+
+{{< figure class="avatar" src="/img/mpg.png" alt="skuzucu's picture">}}
+#### Google Zurich
+*Student Researcher*
+
 
 {{< figure class="avatar" src="/img/mpg.png" alt="skuzucu's picture">}}
 #### [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) 
@@ -111,6 +116,8 @@ Bachelor of Science - Computer Engineering
 
 ## Publications
 
+- **Selim Kuzucu**, M. Ferjad Naeem, Anna Kukleva, Federico Tombari, Bernt Schiele. *Language-Unlocked ViT (LUViT): Empowering Self-Supervised Vision Transformers with LLMs*. _preprint_. [arXiv]([https://arxiv.org/abs/2405.20459](https://arxiv.org/abs/2507.00754))
+
 - **Selim Kuzucu**, Kemal Oksuz, Jonathan Sadeghi, Puneet K. Dokania. *On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines*. Published at the European Conference on Computer Vision (ECCV 2024) as an **oral presentation (top 2.3% of valid submissions)**. [arXiv](https://arxiv.org/abs/2405.20459)
 
 - Kemal Öksüz, **Selim Kuzucu**, Tom Joy, Puneet K. Dokania. *MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection*. Published at Transactions on Machine Learning Research (TMLR) [arXiv](https://arxiv.org/pdf/2309.14976.pdf), [reviewed on OpenReview](https://openreview.net/forum?id=fJEsas1z8J).
@@ -119,12 +126,12 @@ Bachelor of Science - Computer Engineering
 
 - Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI 2023 AI and Social Good Track** (Aug'2023). [available at the IJCAI website](https://www.ijcai.org/proceedings/2023/0658.pdf)
 
-- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. Under review at **IEEE Computational Intelligence Magazine** (Jan'2023). [arXiv](https://arxiv.org/abs/2311.14090)
+- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. [arXiv](https://arxiv.org/abs/2311.14090)
 
-- Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. Under review at **IEEE Transactions on Pattern Analysis and Machine Intelligence** (Nov'2022). Available at [arXiv](https://arxiv.org/abs/2211.12482)
+- Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. [arXiv](https://arxiv.org/abs/2211.12482)
 
 ## Community Service
-- Reviewer for NeurIPS'24, ICML'25, IEEE T-PAMI 
+- Reviewer for NeurIPS'24 & 25, ICML'25, IEEE T-PAMI
 
 
 ## Honors, Awards and Scores
