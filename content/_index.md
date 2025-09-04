@@ -33,6 +33,10 @@ Bachelor of Science - Computer Engineering
 #### Google Zurich
 *Student Researcher*
 
+*Foundation models, Large vision-language models*
+
+*Zurich, Switzerland*, *Sep 2025 - Present*
+
 
 {{< figure class="avatar" src="/img/mpg.png" alt="skuzucu's picture">}}
 #### [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) 
