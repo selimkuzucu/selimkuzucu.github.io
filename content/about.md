@@ -76,7 +76,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 
 <!-- ## Research Interest -->
 
-## Publications
+## Selected Publications
 
 -  Matteo Farina*, Vishaal Udandarao*, Thao Nguyen*, **Selim Kuzucu**, et al., *DataComp-VLM: Improved open datasets for Vision-Language Models*.  _preprint_. [arXiv](https://arxiv.org/abs/2606.28551), [Project Page](https://www.datacomp.ai/dcvlm/index.html#home).
 
