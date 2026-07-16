@@ -5,14 +5,14 @@ title: "About"
 ## About Me
 
 {{< figure class="avatar" src="/img/personal_photo.jpg" alt="skuzucu's picture">}}
-<!-- TODO: improve this -->
-I am currently a Student Researcher at Google Zurich, working in [Dr. Federico Tombari](https://federicotombari.github.io)'s team under the supervision of [Dr. Ferjad Naeem](https://ferjad.github.io). I am also an ELLIS PhD student, co-supervised by [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) from the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) and [Dr. Federico Tombari](https://federicotombari.github.io) from Google Zurich.
 
-Previously, I obtained my BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en).
+I am  an ELLIS PhD student, co-supervised by [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) from the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) and [Dr. Federico Tombari](https://federicotombari.github.io) from Google Zurich.
 
-I was also lucky enough to be an intern at Five AI (Bosch) Oxford Applied Research Center under the supervision of [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/), at the [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) under the supervision of [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and also at the [METU Image Lab](https://image.ceng.metu.edu.tr/members.html) under the supervision of [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en) and [Prof. Emre Akbas](https://user.ceng.metu.edu.tr/~emre/). 
+Previously, I was a Student Researcher at Google Zurich between September 2025 and May 2026, working in [Dr. Federico Tombari](https://federicotombari.github.io)'s team under the supervision of [Dr. Ferjad Naeem](https://ferjad.github.io) on elastic inference with LVLMs. 
 
-Previously, I worked broadly on robustness, reliability and fairness of machine learning models. Nowadays, I am interested in foundation models, with a special focus on vision-language modeling.
+I obtained my BS in Computer Engineering from Middle East Technical University where I was advised by [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en). I was also lucky enough to be an intern at Five AI (Bosch) Oxford Applied Research Center under the supervision of [Dr. Kemal Oksuz](https://scholar.google.com/citations?user=nWHRjrkAAAAJ) and [Dr. Puneet K. Dokania](https://puneetkdokania.github.io/), at the [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) under the supervision of [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and also at the [METU Image Lab](https://image.ceng.metu.edu.tr/members.html) under the supervision of [Prof. Dr. Sinan Kalkan](https://scholar.google.com/citations?user=yiAWeIAAAAAJ&hl=en) and [Prof. Emre Akbas](https://user.ceng.metu.edu.tr/~emre/). 
+
+Previously, I worked broadly on robustness, reliability and fairness of machine learning models. Nowadays, I am interested in foundation models, with a special focus on efficient and elastic vision-language modeling for building generalist models capable of operating under different resource constraints.
 
 
 ## Education
@@ -29,15 +29,6 @@ Bachelor of Science - Computer Engineering
 
 ## Experience
 
-{{< figure class="avatar" src="/img/google.png" alt="skuzucu's picture">}}
-#### Google Zurich
-*Student Researcher*
-
-*Foundation models, Large vision-language models*
-
-*Zurich, Switzerland*, *Sep 2025 - Present*
-
-
 {{< figure class="avatar" src="/img/mpg.png" alt="skuzucu's picture">}}
 #### [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) 
 *Doctoral Researcher*
@@ -45,6 +36,15 @@ Bachelor of Science - Computer Engineering
 *Foundation models, Vision-language modeling*
 
 *Saarbruecken, Germany*, *Sep 2024 - Present*
+
+
+{{< figure class="avatar" src="/img/google.png" alt="skuzucu's picture">}}
+#### Google Zurich
+*Student Researcher*
+
+*Efficient and elastic large vision-language models*
+
+*Zurich, Switzerland*, *Sep 2025 - May 2026*
 
 
 {{< figure class="avatar" src="/img/five_ai_logo.jpeg" alt="skuzucu's picture">}}
@@ -64,9 +64,6 @@ Bachelor of Science - Computer Engineering
 
 *Cambridge, The UK*, *Feb 2022 - Aug 2023*
 
-<!-- - **Resource-Efficient Replication for the Cloud**
-  - Implemented variants of the consensus protocols in the Paxos family using *Go, Java and C++*.
-  - Optimized  the performance of these protocols using *Remote Direct Access Memory* and *Persistent Memory*. -->
 
 {{< figure class="avatar" src="/img/imagelab.jpg" alt="skuzucu's picture">}}
 
@@ -120,6 +117,10 @@ Bachelor of Science - Computer Engineering
 
 ## Publications
 
+- 
+
+- **Selim Kuzucu**, Alessio Tonioni, Vasile Lup, Bernt Schiele, Federico Tombari, M. Ferjad Naeem. *PARCEL: Pool-Anchored Resampling with Conditioned Elastic Queries for Efficient Vision-Language Understanding*. _preprint_. [arXiv](https://arxiv.org/abs/2605.30126), [Project Page](https://parcel-elastic-inference.github.io)
+
 - **Selim Kuzucu**, M. Ferjad Naeem, Anna Kukleva, Federico Tombari, Bernt Schiele. *Language-Unlocked ViT (LUViT): Empowering Self-Supervised Vision Transformers with LLMs*. _preprint_. [arXiv]([https://arxiv.org/abs/2405.20459](https://arxiv.org/abs/2507.00754))
 
 - **Selim Kuzucu**, Kemal Oksuz, Jonathan Sadeghi, Puneet K. Dokania. *On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines*. Published at the European Conference on Computer Vision (ECCV 2024) as an **oral presentation (top 2.3% of valid submissions)**. [arXiv](https://arxiv.org/abs/2405.20459)
@@ -135,7 +136,7 @@ Bachelor of Science - Computer Engineering
 - Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. [arXiv](https://arxiv.org/abs/2211.12482)
 
 ## Community Service
-- Reviewer for NeurIPS'24 & 25, ICML'25, IEEE T-PAMI
+- Reviewer for NeurIPS and ICML since 2024, ICLR since 2025, IEEE T-PAMI since 2025 and WACV since 2024
 
 
 ## Honors, Awards and Scores
