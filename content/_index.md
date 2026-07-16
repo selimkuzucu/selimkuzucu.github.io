@@ -15,25 +15,13 @@ I obtained my BS in Computer Engineering from Middle East Technical University w
 Previously, I worked broadly on robustness, reliability and fairness of machine learning models. Nowadays, I am interested in foundation models, with a special focus on efficient and elastic vision-language modeling for building generalist models capable of operating under different resource constraints.
 
 
-## Education
-
-#### [ELLIS Program](https://ellis.eu) - [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)
-ELLIS PhD - Industry Track with **Google Zurich**
-
-
-#### [Middle East Technical University](https://www.metu.edu.tr/) 
-Bachelor of Science - Computer Engineering 
-
-**High Honor Student** with GPA: 3.66/4.00. Graduated in *Top 5%* (14/305) of the class
-
-
 ## Experience
 
 {{< figure class="avatar" src="/img/mpg.png" alt="skuzucu's picture">}}
 #### [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) 
 *Doctoral Researcher*
 
-*Foundation models, Vision-language modeling*
+*Efficient foundation models, vision-language modeling*
 
 *Saarbruecken, Germany*, *Sep 2024 - Present*
 
@@ -74,33 +62,6 @@ Bachelor of Science - Computer Engineering
 
 *Ankara, Turkey*, *Oct 2021 - Aug 2023*
 
-{{< figure class="avatar" src="/img/ge_logo.png" alt="skuzucu's picture">}}
-#### [General Electric Digital]()
-*Software Engineering Intern*
-
-*Gebze, Turkey*, *Jun 2021 - Dec 2021*
-
-#### [KOVAN Robotics Lab](https://kovan.ceng.metu.edu.tr)
-*Undergraduate Researcher*
-
-*Optimal matching and motion planning in swarm robotics*
-
-*Ankara, Turkey*, *Jul 2021 - Oct 2021*
-
-#### [The Scientific and Technological Research Council of Turkey]()
-*Undergraduate Researcher*
-
-*Designing a new domain-specific language for calibrating RF devices*
-
-*Ankara, Turkey*, *Feb 2021 - June 2021*
-
-#### [Middle East Technical University, Computer Engineering Department](https://ceng.metu.edu.tr/)
-*Student Teaching Assistant*
-
-*Python Programming for Engineers course*
-
-*Ankara, Turkey*, *March 2021 - June 2021*
-
 
 <!-- - **Real-time monitoring service optimization**: reduced response time of real-time monitoring service of call center management solution by *10 times* integrating *cache service*(Redis).
 - **Webchat integration service development**: designed and developed a new microservice to integrate a third-party chat application to the existing solution.
@@ -115,7 +76,7 @@ Bachelor of Science - Computer Engineering
 
 <!-- ## Research Interest -->
 
-## Publications
+## Selected Publications
 
 -  Matteo Farina*, Vishaal Udandarao*, Thao Nguyen*, **Selim Kuzucu**, et al., *DataComp-VLM: Improved open datasets for Vision-Language Models*.  _preprint_. [arXiv](https://arxiv.org/abs/2606.28551), [Project Page](https://www.datacomp.ai/dcvlm/index.html#home).
 
@@ -131,9 +92,18 @@ Bachelor of Science - Computer Engineering
 
 - Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI 2023 AI and Social Good Track** (Aug'2023). [IJCAI Conference Page](https://www.ijcai.org/proceedings/2023/0658.pdf).
 
-- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. [arXiv](https://arxiv.org/abs/2311.14090).
 
-- Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. [arXiv](https://arxiv.org/abs/2211.12482).
+## Education
+
+#### [ELLIS Program](https://ellis.eu) - [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)
+ELLIS PhD - Industry Track with **Google Zurich**
+
+
+#### [Middle East Technical University](https://www.metu.edu.tr/) 
+Bachelor of Science - Computer Engineering 
+
+**High Honor Student** with GPA: 3.66/4.00. Graduated in *Top 5%* (14/305) of the class
+
 
 ## Community Service
 - Reviewer for NeurIPS and ICML since 2024, ICLR since 2025, IEEE T-PAMI since 2025 and WACV since 2024.
