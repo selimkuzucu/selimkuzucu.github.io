@@ -117,26 +117,26 @@ Bachelor of Science - Computer Engineering
 
 ## Publications
 
--  Matteo Farina*, Vishaal Udandarao*, Thao Nguyen*, **Selim Kuzucu**, et al., *DataComp-VLM: Improved open datasets for Vision-Language Models*.  _preprint_. [arXiv](https://arxiv.org/abs/2606.28551), [Project Page](https://www.datacomp.ai/dcvlm/index.html#home) 
+-  Matteo Farina*, Vishaal Udandarao*, Thao Nguyen*, **Selim Kuzucu**, et al., *DataComp-VLM: Improved open datasets for Vision-Language Models*.  _preprint_. [arXiv](https://arxiv.org/abs/2606.28551), [Project Page](https://www.datacomp.ai/dcvlm/index.html#home).
 
-- **Selim Kuzucu**, Alessio Tonioni, Vasile Lup, Bernt Schiele, Federico Tombari, M. Ferjad Naeem. *PARCEL: Pool-Anchored Resampling with Conditioned Elastic Queries for Efficient Vision-Language Understanding*. _preprint_. [arXiv](https://arxiv.org/abs/2605.30126), [Project Page](https://parcel-elastic-inference.github.io)
+- **Selim Kuzucu**, Alessio Tonioni, Vasile Lup, Bernt Schiele, Federico Tombari, M. Ferjad Naeem. *PARCEL: Pool-Anchored Resampling with Conditioned Elastic Queries for Efficient Vision-Language Understanding*. _preprint_. [arXiv](https://arxiv.org/abs/2605.30126), [Project Page](https://parcel-elastic-inference.github.io).
 
-- **Selim Kuzucu**, M. Ferjad Naeem, Anna Kukleva, Federico Tombari, Bernt Schiele. *Language-Unlocked ViT (LUViT): Empowering Self-Supervised Vision Transformers with LLMs*. _preprint_. [arXiv]([https://arxiv.org/abs/2405.20459](https://arxiv.org/abs/2507.00754))
+- **Selim Kuzucu**, M. Ferjad Naeem, Anna Kukleva, Federico Tombari, Bernt Schiele. *Language-Unlocked ViT (LUViT): Empowering Self-Supervised Vision Transformers with LLMs*. _preprint_. [arXiv]([https://arxiv.org/abs/2405.20459](https://arxiv.org/abs/2507.00754)).
 
-- **Selim Kuzucu**, Kemal Oksuz, Jonathan Sadeghi, Puneet K. Dokania. *On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines*. Published at the European Conference on Computer Vision (ECCV 2024) as an **oral presentation (top 2.3% of valid submissions)**. [arXiv](https://arxiv.org/abs/2405.20459)
+- **Selim Kuzucu**, Kemal Oksuz, Jonathan Sadeghi, Puneet K. Dokania. *On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines*. Published at the European Conference on Computer Vision (ECCV 2024) as an **oral presentation (top 2.3% of valid submissions)**. [arXiv](https://arxiv.org/abs/2405.20459).
 
 - Kemal Öksüz, **Selim Kuzucu**, Tom Joy, Puneet K. Dokania. *MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection*. Published at Transactions on Machine Learning Research (TMLR) [arXiv](https://arxiv.org/pdf/2309.14976.pdf), [reviewed on OpenReview](https://openreview.net/forum?id=fJEsas1z8J).
 
-- **Selim Kuzucu**, Jiaee Cheong, Hatice Gunes, Sinan Kalkan. *Uncertainty as a Fairness Measure*. Published at the ACM Journal of Artificial Intelligence Research (JAIR). [available at the JAIR website](https://www.jair.org/index.php/jair/article/view/16041)
+- **Selim Kuzucu**, Jiaee Cheong, Hatice Gunes, Sinan Kalkan. *Uncertainty as a Fairness Measure*. Published at the ACM Journal of Artificial Intelligence Research (JAIR). [JAIR Journal Page](https://www.jair.org/index.php/jair/article/view/16041).
 
-- Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI 2023 AI and Social Good Track** (Aug'2023). [available at the IJCAI website](https://www.ijcai.org/proceedings/2023/0658.pdf)
+- Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI 2023 AI and Social Good Track** (Aug'2023). [IJCAI Conference Page](https://www.ijcai.org/proceedings/2023/0658.pdf).
 
-- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. [arXiv](https://arxiv.org/abs/2311.14090)
+- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. [arXiv](https://arxiv.org/abs/2311.14090).
 
-- Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. [arXiv](https://arxiv.org/abs/2211.12482)
+- Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. [arXiv](https://arxiv.org/abs/2211.12482).
 
 ## Community Service
-- Reviewer for NeurIPS and ICML since 2024, ICLR since 2025, IEEE T-PAMI since 2025 and WACV since 2024
+- Reviewer for NeurIPS and ICML since 2024, ICLR since 2025, IEEE T-PAMI since 2025 and WACV since 2024.
 
 
 ## Honors, Awards and Scores
