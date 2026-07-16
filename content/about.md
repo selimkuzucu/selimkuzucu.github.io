@@ -21,7 +21,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 #### [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) 
 *Doctoral Researcher*
 
-*Foundation models, Vision-language modeling*
+*Efficient foundation models, Vision-language modeling*
 
 *Saarbruecken, Germany*, *Sep 2024 - Present*
 
