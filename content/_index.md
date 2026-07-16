@@ -21,7 +21,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 #### [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) 
 *Doctoral Researcher*
 
-*Foundation models, Vision-language modeling*
+*Efficient foundation models, vision-language modeling*
 
 *Saarbruecken, Germany*, *Sep 2024 - Present*
 
@@ -76,7 +76,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 
 <!-- ## Research Interest -->
 
-## Publications
+## Selected Publications
 
 -  Matteo Farina*, Vishaal Udandarao*, Thao Nguyen*, **Selim Kuzucu**, et al., *DataComp-VLM: Improved open datasets for Vision-Language Models*.  _preprint_. [arXiv](https://arxiv.org/abs/2606.28551), [Project Page](https://www.datacomp.ai/dcvlm/index.html#home).
 
@@ -91,10 +91,6 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 - **Selim Kuzucu**, Jiaee Cheong, Hatice Gunes, Sinan Kalkan. *Uncertainty as a Fairness Measure*. Published at the ACM Journal of Artificial Intelligence Research (JAIR). [JAIR Journal Page](https://www.jair.org/index.php/jair/article/view/16041).
 
 - Jiaee Cheong, **Selim Kuzucu**, Sinan Kalkan, Hatice Gunes. *Towards Gender Fairness for Mental Health Prediction*. Published at **IJCAI 2023 AI and Social Good Track** (Aug'2023). [IJCAI Conference Page](https://www.ijcai.org/proceedings/2023/0658.pdf).
-
-- Zeynep Sonat Baltacı, Kemal Öksüz, **Selim Kuzucu**, Kıvanç Tezören, Berkin Kerim Konar, Alpay Özkan, Emre Akbaş, Sinan Kalkan. *A New Measure for Quantifying and Mitigating Class Imbalance Through Uncertainty Quantification*. [arXiv](https://arxiv.org/abs/2311.14090).
-
-- Siyang Song, Yuxing Song, Cheng Luo, Zhiyuan Song, **Selim Kuzucu**, Xi Jia, Zhijian Guo, Weicheng Xie, Linlin Shen, Hatice Gunes. *Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features*. [arXiv](https://arxiv.org/abs/2211.12482).
 
 
 ## Education
