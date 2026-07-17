@@ -21,7 +21,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 #### [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home) 
 *Doctoral Researcher*
 
-*Foundation models, Vision-language modeling*
+*Efficient foundation models, Vision-Language Modeling*
 
 *Saarbruecken, Germany*, *Sep 2024 - Present*
 
@@ -30,7 +30,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 #### Google Zurich
 *Student Researcher*
 
-*Efficient and elastic large vision-language models*
+*Efficient and Elastic Large Vision-Language Models*
 
 *Zurich, Switzerland*, *Sep 2025 - May 2026*
 
@@ -39,7 +39,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 #### [Five AI (Bosch)](https://www.five.ai/) 
 *Intern Research Scientist*
 
-*Robustness and calibration of object detectors*
+*Robustness and Calibration of Object Detectors*
 
 *Oxford, The UK*, *Sep 2023 - Jun 2024*
 
@@ -48,7 +48,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 #### [University of Cambridge, Affective Intelligence and Robotics Lab](https://cambridge-afar.github.io) 
 *Undergraduate Researcher*
 
-*Fairness through uncertainty, facial activation unit recognition through GNNs*
+*Fairness Through Uncertainty, Facial Activation Unit Recognition Through GNNs*
 
 *Cambridge, The UK*, *Feb 2022 - Aug 2023*
 
@@ -58,7 +58,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 #### [METU Image Lab](https://image.ceng.metu.edu.tr)
 *Undergraduate Researcher*
 
-*Quantifying and mitigating class imbalance through uncertainty*
+*Quantifying and Mitigating Class Imbalance Through Uncertainty*
 
 *Ankara, Turkey*, *Oct 2021 - Aug 2023*
 
