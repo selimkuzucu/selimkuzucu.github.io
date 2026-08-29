@@ -82,7 +82,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 
 - **Selim Kuzucu**, Alessio Tonioni, Vasile Lup, Bernt Schiele, Federico Tombari, M. Ferjad Naeem. *PARCEL: Pool-Anchored Resampling with Conditioned Elastic Queries for Efficient Vision-Language Understanding*. _preprint_. [arXiv](https://arxiv.org/abs/2605.30126), [Project Page](https://parcel-elastic-inference.github.io).
 
-- **Selim Kuzucu**, M. Ferjad Naeem, Anna Kukleva, Federico Tombari, Bernt Schiele. *Language-Unlocked ViT (LUViT): Empowering Self-Supervised Vision Transformers with LLMs*. _preprint_. [arXiv]([https://arxiv.org/abs/2405.20459](https://arxiv.org/abs/2507.00754)).
+- **Selim Kuzucu**, M. Ferjad Naeem, Anna Kukleva, Federico Tombari, Bernt Schiele. *Enhancing Self-Supervised Visual Representation Learning via Low-Rank Adapted LLMs*. Published in Transactions on Machine Learning Research (TMLR). [reviewed on OpenReview](https://openreview.net/forum?id=s2T8Kgj6Rd).
 
 - **Selim Kuzucu**, Kemal Oksuz, Jonathan Sadeghi, Puneet K. Dokania. *On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines*. Published at the European Conference on Computer Vision (ECCV 2024) as an **oral presentation (top 2.3% of valid submissions)**. [arXiv](https://arxiv.org/abs/2405.20459).
 
