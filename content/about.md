@@ -78,11 +78,11 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 
 ## Selected Publications
 
--  Matteo Farina*, Vishaal Udandarao*, Thao Nguyen*, **Selim Kuzucu**, et al., *DataComp-VLM: Improved open datasets for Vision-Language Models*.  _preprint_. [arXiv](https://arxiv.org/abs/2606.28551), [Project Page](https://www.datacomp.ai/dcvlm/index.html#home).
-
 - **Selim Kuzucu**, Alessio Tonioni, Vasile Lup, Bernt Schiele, Federico Tombari, M. Ferjad Naeem. *PARCEL: Pool-Anchored Resampling with Conditioned Elastic Queries for Efficient Vision-Language Understanding*. _preprint_. [arXiv](https://arxiv.org/abs/2605.30126), [Project Page](https://parcel-elastic-inference.github.io).
 
-- **Selim Kuzucu**, M. Ferjad Naeem, Anna Kukleva, Federico Tombari, Bernt Schiele. *Enhancing Self-Supervised Visual Representation Learning via Low-Rank Adapted LLMs*. Published in **Transactions on Machine Learning Research (TMLR)**, [reviewed on OpenReview](https://openreview.net/forum?id=s2T8Kgj6Rd).
+-  Matteo Farina*, Vishaal Udandarao*, Thao Nguyen*, **Selim Kuzucu**, et al., *DataComp-VLM: Improved open datasets for Vision-Language Models*. Published in **NeurIPS 2026 E&D Track**. [arXiv](https://arxiv.org/abs/2606.28551), [Project Page](https://www.datacomp.ai/dcvlm/index.html#home).
+
+- **Selim Kuzucu**, M. Ferjad Naeem, Anna Kukleva, Federico Tombari, Bernt Schiele. *Enhancing Self-Supervised Visual Representation Learning via Low-Rank Adapted LLMs*. Respectively published and presented in **Transactions on Machine Learning Research (TMLR) & NeurIPS 2026 VLM4RWD Workshop**, [reviewed on OpenReview](https://openreview.net/forum?id=s2T8Kgj6Rd).
 
 - **Selim Kuzucu**, Kemal Oksuz, Jonathan Sadeghi, Puneet K. Dokania. *On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines*. Published at the **European Conference on Computer Vision (ECCV 2024)** as an **oral presentation (top 2.3% of valid submissions)**, [arXiv](https://arxiv.org/abs/2405.20459).
 
