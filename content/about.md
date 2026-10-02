@@ -106,7 +106,7 @@ Bachelor of Science - Computer Engineering
 
 
 ## Community Service
-- Reviewer for NeurIPS and ICML since 2024, ICLR since 2025, IEEE T-PAMI since 2025 and WACV since 2024.
+- Reviewer for NeurIPS, ICML and WACV since 2024, and ICLR and IEEE T-PAMI since 2025. Designated as a **Gold Reviewer** for ICML 2026. 
 
 
 ## Honors, Awards and Scores
