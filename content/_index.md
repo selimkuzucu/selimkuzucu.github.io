@@ -84,7 +84,7 @@ Previously, I worked broadly on robustness, reliability and fairness of machine 
 
 - **Selim Kuzucu**, M. Ferjad Naeem, Anna Kukleva, Federico Tombari, Bernt Schiele. *Enhancing Self-Supervised Visual Representation Learning via Low-Rank Adapted LLMs*. Respectively published and presented in **Transactions on Machine Learning Research (TMLR) & NeurIPS 2026 VLM4RWD Workshop**, [reviewed on OpenReview](https://openreview.net/forum?id=s2T8Kgj6Rd).
 
-- **Selim Kuzucu**, Kemal Oksuz, Jonathan Sadeghi, Puneet K. Dokania. *On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines*. Published at the **European Conference on Computer Vision (ECCV 2024)** as an **oral presentation (top 2.3% of valid submissions)**, [arXiv](https://arxiv.org/abs/2405.20459).
+- **Selim Kuzucu***, Kemal Oksuz*, Jonathan Sadeghi, Puneet K. Dokania. *On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines*. Published at the **European Conference on Computer Vision (ECCV 2024)** as an **oral presentation (top 2.3% of valid submissions)**, [arXiv](https://arxiv.org/abs/2405.20459).
 
 - Kemal Öksüz, **Selim Kuzucu**, Tom Joy, Puneet K. Dokania. *MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection*. Published in **Transactions on Machine Learning Research (TMLR)**, [arXiv](https://arxiv.org/pdf/2309.14976.pdf), [reviewed on OpenReview](https://openreview.net/forum?id=fJEsas1z8J).
 
